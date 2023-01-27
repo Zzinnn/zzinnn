@@ -15,7 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffebe9&height=200&section=header&text=JEONG%20JINA&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=JEONG%20JINA&&desc=Hello%20capsule%20render&descSize=200&fontSize=80&fontColor=eeeeee)
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+
+![header](https://capsule-render.vercel.app/api?height=300&text=Hello%20World!&desc=Hello%20capsule%20render)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+
+
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40&desc=Desc&descSize=30)
+
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
+
+
 
 <h3 align="left">🛠 Tech Stack</h3>
 <p align="left">
