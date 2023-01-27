@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=JEONG%20JINA&&desc=Hello%20capsule%20render&descSize=30&fontSize=80&fontColor=eeeeee)
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=JEONG%20JINA&desc=Welcome%20to%20my%20Github!)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=350&section=header&text=JEONG%20JINA&desc=Welcome%20to%20my%20Github!&fontSize=78&fontColor=eeeeee&fontAlignY=40&descAlignY=53)
 
 
 <h3 align="left">🛠 Tech Stack</h3>
